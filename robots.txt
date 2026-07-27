@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-vl8lam.biggamingwin.online/sitemap.xml
